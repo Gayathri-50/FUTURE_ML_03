@@ -1,0 +1,29 @@
+Jack Taylor
+Email: jack.taylor@email.com | Phone: +1-555-0110
+
+Professional Summary:
+Data Analyst with strong background in statistical analysis and business intelligence. Proficient in SQL, Python, and Tableau.
+
+Skills:
+- SQL, Python, R
+- Statistics, Data Analysis
+- Tableau, Power BI
+- Excel, Google Sheets
+- A/B Testing, Hypothesis Testing
+- Data Visualization
+- Business Intelligence
+- Data Cleaning
+
+Experience:
+Data Analyst at HealthData Inc (2020-Present)
+- Analyzed patient data to identify health trends
+- Built interactive dashboards for healthcare metrics
+- Conducted statistical analysis for clinical studies
+
+Junior Analyst at MarketResearch (2018-2020)
+- Performed market research and competitor analysis
+- Created data visualizations using Tableau
+- Assisted in building predictive models
+
+Education:
+B.S. in Statistics, University of Florida (2018)

@@ -1,0 +1,30 @@
+Eve Martinez
+Email: eve.martinez@email.com | Phone: +1-555-0105
+
+Professional Summary:
+Data Scientist with PhD in Machine Learning. Specialized in NLP and deep learning with publications in top conferences.
+
+Skills:
+- Python, PyTorch, TensorFlow
+- NLP, Transformers, BERT
+- Deep Learning, Neural Networks
+- Machine Learning, Statistics
+- SQL, Big Data
+- Scikit-learn, Pandas, NumPy
+- Research, Experiment Design
+- Data Visualization
+
+Experience:
+Senior Research Scientist at NLP Labs (2022-Present)
+- Led research team developing state-of-the-art NLP models
+- Published papers at ACL and EMNLP conferences
+- Built large-scale language models
+
+Data Scientist at BigData Corp (2019-2022)
+- Developed text classification and entity extraction systems
+- Built recommendation engines using deep learning
+- Analyzed user behavior using statistical methods
+
+Education:
+Ph.D. in Machine Learning, MIT (2019)
+M.S. in Computer Science, Stanford University (2015)

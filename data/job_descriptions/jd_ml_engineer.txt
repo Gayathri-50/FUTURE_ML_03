@@ -1,0 +1,32 @@
+Job Title: Machine Learning Engineer
+
+Company: AI Innovations
+Location: New York, NY
+Employment Type: Full-time
+
+Job Description:
+We are seeking a Machine Learning Engineer to design, build, and deploy ML systems at scale.
+
+Responsibilities:
+- Design and implement ML pipelines
+- Deploy models to production environments
+- Optimize model performance and latency
+- Build monitoring and alerting for ML systems
+- Collaborate with data scientists on model development
+
+Required Skills:
+- Python, TensorFlow, PyTorch
+- Machine Learning, Deep Learning
+- Docker, Kubernetes
+- AWS, GCP or Azure
+- SQL, NoSQL Databases
+- Scikit-learn, Pandas, NumPy
+- MLOps, CI/CD
+- Data Pipelines, Airflow
+- REST APIs, Microservices
+- Git, Linux
+
+Qualifications:
+- MS in Computer Science, Machine Learning, or related field
+- 3+ years of ML engineering experience
+- Experience with production ML systems

@@ -1,0 +1,30 @@
+Samuel Jackson
+Email: samuel.jackson@email.com | Phone: +1-555-0119
+
+Professional Summary:
+Machine Learning Engineer experienced in building real-time ML systems. Expert in TensorFlow, Kafka, and stream processing.
+
+Skills:
+- Python, TensorFlow, PyTorch
+- Spark, Kafka, Flink
+- Real-time ML, Streaming
+- Docker, Kubernetes
+- AWS Kinesis, Lambda
+- SQL, Cassandra
+- Scikit-learn, XGBoost
+- Data Engineering
+
+Experience:
+ML Engineer at RealTimeAI (2021-Present)
+- Built real-time fraud detection system using Kafka and TensorFlow
+- Implemented streaming feature engineering pipelines
+- Deployed models using TensorFlow Serving and Kubernetes
+
+Data Engineer at StreamData (2019-2021)
+- Built real-time data pipelines using Kafka
+- Implemented stream processing using Apache Flink
+- Maintained production data infrastructure
+
+Education:
+M.S. in Data Engineering, University of Wisconsin (2019)
+B.S. in Computer Science, Purdue University (2017)

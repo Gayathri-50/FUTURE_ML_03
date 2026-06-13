@@ -1,0 +1,30 @@
+Alice Johnson
+Email: alice.johnson@email.com | Phone: +1-555-0101
+
+Professional Summary:
+Data Scientist with 5 years of experience in building machine learning models and statistical analysis. Proficient in Python, SQL, and deep learning frameworks.
+
+Skills:
+- Python, SQL, R
+- Machine Learning, Deep Learning
+- TensorFlow, PyTorch
+- NLP, Computer Vision
+- Statistics, Data Analysis
+- Scikit-learn, Pandas, NumPy
+- Power BI, Tableau
+- Excel, Data Visualization
+
+Experience:
+Senior Data Scientist at TechCorp (2021-Present)
+- Developed ML models for customer churn prediction achieving 94% accuracy
+- Built NLP pipeline for sentiment analysis using BERT
+- Created interactive dashboards using Power BI
+
+Data Scientist at DataSolve (2019-2021)
+- Performed statistical analysis on large datasets
+- Implemented recommendation systems using collaborative filtering
+- Automated data preprocessing pipelines
+
+Education:
+M.S. in Data Science, Stanford University (2019)
+B.S. in Computer Science, MIT (2017)

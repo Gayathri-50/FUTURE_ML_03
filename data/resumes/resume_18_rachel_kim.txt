@@ -1,0 +1,30 @@
+Rachel Kim
+Email: rachel.kim@email.com | Phone: +1-555-0118
+
+Professional Summary:
+Data Analyst experienced in healthcare analytics and operations. Skilled in SQL, Python, and business intelligence tools.
+
+Skills:
+- SQL, Python, SAS
+- Excel, Power BI, Tableau
+- Data Analysis, Reporting
+- Statistics, Hypothesis Testing
+- Healthcare Analytics
+- Data Quality, Data Governance
+- ETL, Data Warehousing
+- Communication, Collaboration
+
+Experience:
+Healthcare Data Analyst at MedInsights (2021-Present)
+- Analyzed patient outcomes data using SQL and Python
+- Built dashboards for hospital performance metrics
+- Conducted statistical analysis for clinical research
+
+Data Analyst at HealthCorp (2019-2021)
+- Maintained data quality in healthcare databases
+- Created regulatory compliance reports
+- Assisted in building data warehouse systems
+
+Education:
+M.S. in Health Informatics, Johns Hopkins University (2021)
+B.S. in Biology, University of Pennsylvania (2019)

@@ -1,0 +1,30 @@
+Mia Robinson
+Email: mia.robinson@email.com | Phone: +1-555-0113
+
+Professional Summary:
+Data Scientist experienced in applying ML to business problems. Strong skills in Python, SQL, and statistical modeling.
+
+Skills:
+- Python, SQL, R
+- Machine Learning, Statistics
+- Deep Learning, Neural Networks
+- NLP, Text Analytics
+- Power BI, Tableau
+- Excel, Data Analysis
+- Scikit-learn, Pandas
+- A/B Testing, Experimentation
+
+Experience:
+Data Scientist at FinTech Corp (2020-Present)
+- Built credit risk models using ensemble methods
+- Developed fraud detection system using XGBoost
+- Created customer lifetime value prediction models
+
+Data Analyst at BankInc (2018-2020)
+- Performed financial data analysis and reporting
+- Built dashboards for risk management
+- Assisted in regulatory compliance reporting
+
+Education:
+M.S. in Data Science, Harvard University (2020)
+B.S. in Economics, Brown University (2018)

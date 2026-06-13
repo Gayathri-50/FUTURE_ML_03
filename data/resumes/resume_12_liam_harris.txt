@@ -1,0 +1,29 @@
+Liam Harris
+Email: liam.harris@email.com | Phone: +1-555-0112
+
+Professional Summary:
+Python Developer with expertise in backend development and data engineering. Skilled in building scalable applications and APIs.
+
+Skills:
+- Python, Django, FastAPI
+- SQL, PostgreSQL, Redis
+- REST APIs, GraphQL
+- Docker, Kubernetes
+- AWS, GCP
+- Pandas, NumPy
+- Git, CI/CD
+- Microservices Architecture
+
+Experience:
+Backend Developer at FastTech (2021-Present)
+- Designed and implemented microservices architecture
+- Built high-performance APIs handling 10K+ requests/second
+- Optimized database queries reducing latency by 40%
+
+Python Developer at DevShop (2019-2021)
+- Developed web applications using Django
+- Implemented caching strategies using Redis
+- Created automated deployment pipelines
+
+Education:
+B.S. in Software Engineering, University of Illinois (2019)

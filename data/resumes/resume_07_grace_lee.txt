@@ -1,0 +1,29 @@
+Grace Lee
+Email: grace.lee@email.com | Phone: +1-555-0107
+
+Professional Summary:
+Data Analyst skilled in SQL, Excel, and data visualization. Passionate about turning data into business insights.
+
+Skills:
+- SQL, Excel, Python
+- Data Analysis, Reporting
+- Power BI, Tableau
+- Statistics, A/B Testing
+- Data Cleaning, Data Quality
+- Business Intelligence
+- Google Analytics
+- Communication, Presentation
+
+Experience:
+Data Analyst at Ecommerce Inc (2020-Present)
+- Analyzed sales data to identify growth opportunities
+- Created automated reports using SQL and Python
+- Built executive dashboards in Tableau
+
+Analyst Intern at FinanceCorp (2019-2020)
+- Assisted in financial data analysis
+- Created weekly performance reports
+- Participated in data quality initiatives
+
+Education:
+B.S. in Business Analytics, University of Texas (2020)

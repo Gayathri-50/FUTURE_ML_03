@@ -1,0 +1,30 @@
+Tina Brown
+Email: tina.brown@email.com | Phone: +1-555-0120
+
+Professional Summary:
+Data Scientist with expertise in NLP and deep learning. Passionate about using AI for social good and ethical AI.
+
+Skills:
+- Python, TensorFlow, PyTorch
+- NLP, Transformers, BERT
+- Deep Learning, Neural Networks
+- Machine Learning, Statistics
+- SQL, BigQuery
+- Fairness in AI, Ethics
+- Scikit-learn, Pandas, NumPy
+- Data Visualization
+
+Experience:
+Data Scientist at SocialGood AI (2021-Present)
+- Developed NLP models for content moderation
+- Built bias detection and fairness evaluation tools
+- Created educational resources for ethical AI
+
+Data Scientist at ResearchLab (2019-2021)
+- Applied ML to environmental sustainability projects
+- Built text classification systems for document analysis
+- Collaborated on interdisciplinary research projects
+
+Education:
+M.S. in Data Science, UC Berkeley (2019)
+B.S. in Statistics, Duke University (2017)

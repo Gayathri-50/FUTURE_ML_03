@@ -1,0 +1,30 @@
+Quinn Thompson
+Email: quinn.thompson@email.com | Phone: +1-555-0117
+
+Professional Summary:
+Senior Data Scientist with 7 years of experience in ML and AI. Published author in top-tier journals and conferences.
+
+Skills:
+- Python, R, Julia
+- Machine Learning, Deep Learning
+- TensorFlow, PyTorch, JAX
+- NLP, Transformers, LLMs
+- Computer Vision, GANs
+- Statistics, Bayesian Methods
+- Big Data, Spark
+- Research, Publications
+
+Experience:
+Principal Data Scientist at AI Research (2020-Present)
+- Led research in large language models
+- Published 10+ papers in NeurIPS, ICML, ICLR
+- Mentored junior researchers and interns
+
+Senior Data Scientist at TechGiant (2017-2020)
+- Built production ML systems serving millions of users
+- Developed novel algorithms for content recommendation
+- Led team of 5 data scientists
+
+Education:
+Ph.D. in Machine Learning, MIT (2017)
+M.S. in Computer Science, Stanford University (2013)

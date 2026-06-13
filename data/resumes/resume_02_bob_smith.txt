@@ -1,0 +1,30 @@
+Bob Smith
+Email: bob.smith@email.com | Phone: +1-555-0102
+
+Professional Summary:
+Machine Learning Engineer with strong background in deploying scalable ML systems. Expert in Python, TensorFlow, and cloud platforms.
+
+Skills:
+- Python, Java, C++
+- Machine Learning, Deep Learning
+- TensorFlow, PyTorch, Keras
+- Docker, Kubernetes, AWS
+- CI/CD, MLOps
+- SQL, NoSQL Databases
+- Scikit-learn, Pandas
+- REST APIs, Microservices
+
+Experience:
+ML Engineer at CloudAI (2020-Present)
+- Deployed ML models to production using Docker and Kubernetes
+- Built automated ML pipelines reducing deployment time by 60%
+- Optimized model inference using TensorRT
+
+Junior ML Engineer at AI Labs (2018-2020)
+- Developed computer vision models for object detection
+- Implemented data augmentation pipelines
+- Created monitoring dashboards for model performance
+
+Education:
+M.S. in Computer Science, Carnegie Mellon University (2018)
+B.S. in Computer Engineering, Georgia Tech (2016)

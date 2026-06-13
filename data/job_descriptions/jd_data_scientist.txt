@@ -1,0 +1,32 @@
+Job Title: Data Scientist
+
+Company: TechCorp
+Location: San Francisco, CA
+Employment Type: Full-time
+
+Job Description:
+We are looking for a talented Data Scientist to join our team. You will work on solving complex business problems using machine learning and statistical methods.
+
+Responsibilities:
+- Analyze large datasets to extract actionable insights
+- Build and deploy machine learning models
+- Design and conduct A/B experiments
+- Communicate findings to stakeholders
+- Collaborate with engineering teams to implement solutions
+
+Required Skills:
+- Python, SQL, R
+- Machine Learning, Statistics
+- Deep Learning, Neural Networks
+- NLP, Text Analytics
+- TensorFlow, PyTorch
+- Scikit-learn, Pandas, NumPy
+- Data Analysis, Data Visualization
+- Power BI, Tableau
+- Excel
+- A/B Testing, Experimentation
+
+Qualifications:
+- MS or PhD in Data Science, Statistics, or related field
+- 3+ years of experience in data science
+- Strong communication and presentation skills

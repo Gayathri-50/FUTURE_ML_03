@@ -1,0 +1,30 @@
+Noah Garcia
+Email: noah.garcia@email.com | Phone: +1-555-0114
+
+Professional Summary:
+Machine Learning Engineer focused on MLOps and deploying ML systems at scale. Experience with cloud platforms and containerization.
+
+Skills:
+- Python, TensorFlow, PyTorch
+- Docker, Kubernetes, Terraform
+- AWS, GCP, Azure
+- MLOps, CI/CD, GitOps
+- SQL, Redis, MongoDB
+- Scikit-learn, XGBoost
+- Data Pipelines, Airflow
+- Monitoring, Logging
+
+Experience:
+MLOps Engineer at CloudScale (2021-Present)
+- Built ML platform for model deployment and monitoring
+- Implemented automated model retraining pipelines
+- Reduced model deployment time by 80% using CI/CD
+
+ML Engineer at DataPlatform (2019-2021)
+- Developed ML models for predictive maintenance
+- Built feature engineering pipelines
+- Created monitoring dashboards for model performance
+
+Education:
+M.S. in Computer Science, University of Michigan (2019)
+B.S. in Electrical Engineering, Ohio State (2017)

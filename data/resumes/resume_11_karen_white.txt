@@ -1,0 +1,30 @@
+Karen White
+Email: karen.white@email.com | Phone: +1-555-0111
+
+Professional Summary:
+Machine Learning Engineer specializing in NLP and recommendation systems. Strong background in mathematics and algorithm design.
+
+Skills:
+- Python, TensorFlow, PyTorch
+- NLP, Text Mining, Transformers
+- Machine Learning, Deep Learning
+- Recommendation Systems
+- SQL, NoSQL
+- AWS, Docker, Kubernetes
+- Scikit-learn, Pandas
+- Statistics, Probability
+
+Experience:
+ML Engineer at RecommendAI (2022-Present)
+- Built personalized recommendation systems
+- Developed NLP models for content understanding
+- Optimized ranking algorithms for relevance
+
+Data Scientist at Ecommerce Giant (2020-2022)
+- Developed product recommendation engines
+- Built customer segmentation models
+- Improved search relevance using ML
+
+Education:
+M.S. in Machine Learning, Georgia Tech (2020)
+B.S. in Mathematics, Cornell University (2018)

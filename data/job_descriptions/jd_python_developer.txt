@@ -1,0 +1,32 @@
+Job Title: Python Developer
+
+Company: Software Solutions
+Location: Seattle, WA
+Employment Type: Full-time
+
+Job Description:
+We are seeking a skilled Python Developer to build and maintain our backend systems and applications.
+
+Responsibilities:
+- Develop and maintain Python applications
+- Build REST APIs and microservices
+- Design and optimize database schemas
+- Write clean, testable, and efficient code
+- Participate in code reviews and architecture discussions
+
+Required Skills:
+- Python, Django, Flask, FastAPI
+- SQL, PostgreSQL, MySQL
+- REST APIs, GraphQL
+- Docker, Kubernetes
+- AWS, GCP
+- Git, CI/CD
+- Pandas, NumPy
+- Data Analysis, ETL
+- JavaScript, HTML, CSS (Optional)
+- Microservices Architecture
+
+Qualifications:
+- BS in Computer Science or related field
+- 3+ years of Python development experience
+- Strong understanding of software engineering principles

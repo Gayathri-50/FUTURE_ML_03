@@ -1,0 +1,30 @@
+Wendy Foster
+Email: wendy.foster@email.com | Phone: +1-555-0123
+
+Professional Summary:
+Machine Learning Engineer specializing in NLP and text analytics. Experienced in building production-ready ML systems.
+
+Skills:
+- Python, TensorFlow, PyTorch
+- NLP, SpaCy, NLTK
+- Transformers, BERT, GPT
+- Machine Learning, Deep Learning
+- SQL, MongoDB, Elasticsearch
+- Docker, AWS, GCP
+- Scikit-learn, Pandas, NumPy
+- Data Pipelines, Airflow
+
+Experience:
+NLP Engineer at TextAnalytics (2021-Present)
+- Built document classification and information extraction systems
+- Developed question-answering systems using BERT
+- Implemented semantic search using Elasticsearch
+
+ML Engineer at SearchEngine (2019-2021)
+- Developed search relevance models
+- Built text preprocessing and feature extraction pipelines
+- Improved search ranking algorithms
+
+Education:
+M.S. in Computational Linguistics, Stanford University (2019)
+B.S. in Linguistics, UC San Diego (2017)

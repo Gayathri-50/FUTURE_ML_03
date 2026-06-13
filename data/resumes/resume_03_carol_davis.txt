@@ -1,0 +1,28 @@
+Carol Davis
+Email: carol.davis@email.com | Phone: +1-555-0103
+
+Professional Summary:
+Data Analyst with expertise in transforming raw data into actionable insights. Skilled in SQL, Excel, Power BI, and statistical analysis.
+
+Skills:
+- SQL, Excel, Power BI
+- Data Analysis, Data Visualization
+- Statistics, A/B Testing
+- Tableau, Python
+- R, SAS
+- Business Intelligence
+- Data Cleaning, ETL
+
+Experience:
+Data Analyst at MarketInsights (2021-Present)
+- Created weekly sales dashboards using Power BI
+- Conducted A/B tests for marketing campaigns
+- Analyzed customer behavior patterns using SQL
+
+Junior Data Analyst at RetailCorp (2019-2021)
+- Maintained data quality and performed data cleaning
+- Generated monthly performance reports in Excel
+- Assisted in building Tableau dashboards
+
+Education:
+B.S. in Statistics, University of Michigan (2019)

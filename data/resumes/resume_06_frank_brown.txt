@@ -1,0 +1,30 @@
+Frank Brown
+Email: frank.brown@email.com | Phone: +1-555-0106
+
+Professional Summary:
+Machine Learning Engineer experienced in building end-to-end ML systems. Expert in TensorFlow, PyTorch, and MLOps practices.
+
+Skills:
+- Python, TensorFlow, PyTorch
+- Machine Learning, Deep Learning
+- Docker, Kubernetes, Kubeflow
+- AWS, GCP, Azure
+- MLOps, CI/CD
+- SQL, BigQuery
+- Scikit-learn, Pandas
+- Data Engineering, ETL
+
+Experience:
+ML Engineer at CloudML (2021-Present)
+- Built automated ML pipelines using Kubeflow
+- Deployed models on AWS SageMaker
+- Implemented model versioning and monitoring
+
+ML Engineer at DataPlatform (2019-2021)
+- Developed fraud detection models
+- Built feature stores for ML systems
+- Created data pipelines using Apache Airflow
+
+Education:
+M.S. in Data Science, Columbia University (2019)
+B.S. in Mathematics, UCLA (2017)

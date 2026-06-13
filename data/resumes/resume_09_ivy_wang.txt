@@ -1,0 +1,30 @@
+Ivy Wang
+Email: ivy.wang@email.com | Phone: +1-555-0109
+
+Professional Summary:
+Data Scientist with expertise in deep learning and computer vision. Experienced in deploying models for production use cases.
+
+Skills:
+- Python, PyTorch, TensorFlow
+- Computer Vision, OpenCV
+- Deep Learning, CNNs, GANs
+- Machine Learning, Statistics
+- SQL, MongoDB
+- Docker, AWS
+- Scikit-learn, Pandas
+- Research, Technical Writing
+
+Experience:
+Computer Vision Engineer at VisionTech (2021-Present)
+- Developed object detection models using YOLO and Detectron2
+- Built face recognition systems achieving 99% accuracy
+- Deployed models using TensorFlow Serving
+
+Data Scientist at AI Solutions (2019-2021)
+- Built image classification models for medical imaging
+- Implemented data augmentation strategies
+- Created visualization dashboards for model metrics
+
+Education:
+Ph.D. in Computer Vision, Stanford University (2019)
+M.S. in Electrical Engineering, MIT (2015)

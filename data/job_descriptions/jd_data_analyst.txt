@@ -1,0 +1,30 @@
+Job Title: Data Analyst
+
+Company: Business Insights Inc
+Location: Chicago, IL
+Employment Type: Full-time
+
+Job Description:
+We are looking for a Data Analyst to help us make data-driven decisions. You will analyze data, create reports, and provide actionable insights.
+
+Responsibilities:
+- Collect and analyze data from multiple sources
+- Create dashboards and reports using BI tools
+- Identify trends and patterns in data
+- Present findings to stakeholders
+- Maintain data quality and documentation
+
+Required Skills:
+- SQL, Excel, Python
+- Data Analysis, Data Visualization
+- Power BI, Tableau
+- Statistics, A/B Testing
+- Data Cleaning, Data Quality
+- Business Intelligence
+- Communication, Presentation
+- Google Analytics
+
+Qualifications:
+- BS in Statistics, Mathematics, Economics, or related field
+- 2+ years of data analysis experience
+- Strong analytical and problem-solving skills

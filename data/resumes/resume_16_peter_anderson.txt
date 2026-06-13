@@ -1,0 +1,30 @@
+Peter Anderson
+Email: peter.anderson@email.com | Phone: +1-555-0116
+
+Professional Summary:
+Python Developer and Data Scientist with expertise in building ML-powered applications. Full-stack experience with Python frameworks.
+
+Skills:
+- Python, Django, Flask
+- Machine Learning, Deep Learning
+- TensorFlow, PyTorch, Scikit-learn
+- React, JavaScript, HTML/CSS
+- SQL, PostgreSQL
+- Docker, AWS
+- Pandas, NumPy
+- REST APIs, GraphQL
+
+Experience:
+Full Stack ML Developer at AppGenius (2021-Present)
+- Built ML-powered web applications using Django
+- Deployed models as REST APIs on AWS
+- Developed interactive data visualization components
+
+Python Developer at CodeWorks (2019-2021)
+- Developed backend services using Flask
+- Integrated ML models into production systems
+- Built data processing pipelines
+
+Education:
+B.S. in Computer Science, University of Texas (2019)
+Bootcamp in Data Science, General Assembly (2019)

@@ -1,0 +1,29 @@
+Olivia Martinez
+Email: olivia.martinez@email.com | Phone: +1-555-0115
+
+Professional Summary:
+Data Analyst specializing in marketing analytics and customer insights. Expert in SQL, Excel, and data visualization tools.
+
+Skills:
+- SQL, Excel, Python
+- Tableau, Power BI
+- Data Analysis, Reporting
+- Google Analytics, HubSpot
+- A/B Testing, Experimentation
+- Statistics, Data Visualization
+- Marketing Analytics
+- CRM Systems
+
+Experience:
+Marketing Analyst at BrandCorp (2021-Present)
+- Analyzed marketing campaign performance using SQL
+- Built customer segmentation models
+- Created dashboards tracking KPIs and ROI
+
+Data Analyst at AgencyX (2019-2021)
+- Performed web analytics using Google Analytics
+- Created monthly client reports and presentations
+- Assisted in A/B testing for website optimization
+
+Education:
+B.S. in Marketing Analytics, University of Illinois (2019)

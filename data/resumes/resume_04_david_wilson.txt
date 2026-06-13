@@ -1,0 +1,29 @@
+David Wilson
+Email: david.wilson@email.com | Phone: +1-555-0104
+
+Professional Summary:
+Python Developer with 4 years of experience building web applications and data pipelines. Strong knowledge of Python frameworks and database systems.
+
+Skills:
+- Python, Django, Flask
+- SQL, PostgreSQL, MongoDB
+- REST APIs, GraphQL
+- Git, Docker, CI/CD
+- Pandas, NumPy
+- AWS, Cloud Computing
+- JavaScript, HTML, CSS
+- Data Analysis, ETL
+
+Experience:
+Python Developer at WebSolutions (2020-Present)
+- Built RESTful APIs using Django REST Framework
+- Designed and implemented data pipelines
+- Deployed applications on AWS EC2 and Lambda
+
+Junior Developer at StartUpInc (2018-2020)
+- Developed web scrapers for data collection
+- Created automated testing frameworks
+- Maintained PostgreSQL databases
+
+Education:
+B.S. in Computer Science, UC Berkeley (2018)

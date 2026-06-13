@@ -1,0 +1,29 @@
+Uma Patel
+Email: uma.patel@email.com | Phone: +1-555-0121
+
+Professional Summary:
+Python Developer with experience in machine learning and data engineering. Full-stack capabilities with Python and JavaScript.
+
+Skills:
+- Python, JavaScript, TypeScript
+- Django, FastAPI, Flask
+- SQL, PostgreSQL, MySQL
+- React, Node.js
+- Docker, AWS, GCP
+- Pandas, NumPy, Scikit-learn
+- Git, CI/CD
+- REST APIs, GraphQL
+
+Experience:
+Full Stack Developer at WebDev Pro (2021-Present)
+- Built full-stack web applications using Django and React
+- Implemented data visualization features using D3.js
+- Deployed applications on AWS using Docker
+
+Python Developer at CodeHouse (2019-2021)
+- Developed backend microservices using FastAPI
+- Built data processing scripts using Pandas
+- Integrated third-party APIs and services
+
+Education:
+B.S. in Computer Science, University of Texas (2019)

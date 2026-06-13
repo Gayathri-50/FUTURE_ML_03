@@ -1,0 +1,29 @@
+Henry Clark
+Email: henry.clark@email.com | Phone: +1-555-0108
+
+Professional Summary:
+Python Developer and Data Engineer with expertise in building scalable data pipelines and ETL processes.
+
+Skills:
+- Python, SQL, PySpark
+- ETL, Data Pipelines
+- Apache Spark, Hadoop
+- Pandas, NumPy
+- AWS S3, Redshift, Lambda
+- Docker, Airflow
+- Django, Flask
+- Git, Linux
+
+Experience:
+Data Engineer at DataStream (2021-Present)
+- Designed and built real-time data pipelines
+- Optimized Spark jobs for large-scale processing
+- Implemented data quality monitoring systems
+
+Python Developer at TechStartup (2019-2021)
+- Developed ETL pipelines using Python and Airflow
+- Built REST APIs using Flask
+- Managed AWS infrastructure for data processing
+
+Education:
+B.S. in Computer Science, University of Washington (2019)
